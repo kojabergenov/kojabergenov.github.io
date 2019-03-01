@@ -1,0 +1,13 @@
+{
+  "main": "index.html",
+  "name": "SpaceBlaster",
+  "keywords": [ "Construct 2", "node-webkit", "Space Blaster" ],
+  "version": "0.1",
+  "keywords": [ "demo", "node-webkit" ],
+  "window": {
+    "icon": "icon-128.png",
+    "toolbar": false,
+    "position": "center",
+    "resizable": true
+   }
+}
